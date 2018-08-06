@@ -3,7 +3,7 @@
 void main()
 {
 int a[5],n,i,esum=0;
-clrscr();
+\\clrscr();\\
 printf("\n enter n value");
 scanf("%d",&n);
 printf("\n enter nos");
